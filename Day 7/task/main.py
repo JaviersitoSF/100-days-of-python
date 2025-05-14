@@ -70,6 +70,7 @@ word_list = [
     "rojo", "azul", "verde", "amarillo", "blanco", "negro", "gris", "rosa", "naranja", "morado",
     "uno", "dos", "tres", "cuatro", "cinco", "seis", "siete", "ocho", "nueve", "diez"
 ]
+#probando git
 
 lives=6
 atino=False
