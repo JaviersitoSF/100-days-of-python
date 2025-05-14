@@ -121,5 +121,4 @@ else:
     print (f"--------* Tu GANASTE y te quedaban  ' {lives} ' vidas disponibles *--------")
     print(f"Adivinaste la palabra correcta: '{chosen_word}'")
 
-#print (f"--------* estas son las letras que has usado: '{used_letters}' *--------")
-            #print(f"--------* le quedan ' {lives} ' vidas *--------")
+
